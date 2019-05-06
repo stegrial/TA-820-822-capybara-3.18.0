@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/educator-io/trueautomation-libraries
-  revision: a781c8c712fbeafd761c0d11355d25eab239d680
-  branch: fix_capybara_new_driver
+  remote: /Users/stegrial/Documents/TrueAutomation/lib/trueautomation-libraries
+  revision: b080f40cc2187d99dd1431a26fdb13e017998795
+  branch: master
   glob: ruby/true_automation/true_automation.gemspec
   specs:
     true_automation (0.3.30)
